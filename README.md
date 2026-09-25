@@ -67,7 +67,7 @@
 
 ## 💻 Open-Source GitHub Projects
 
-Below is a curated list of open-source projects, ERP modules, ledger engines, and reconciliation tools for financial close operations, sorted by GitHub Star Count (descending) 🌟:
+Below is a curated list of open-source projects, ERP modules, ledger engines, and reconciliation tools for financial close operations, sorted by GitHub Stars_Count (descending) 🌟:
 
 1. **[Odoo](https://github.com/odoo/odoo)**  
    [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) 🌟  
